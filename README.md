@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alinawabkhan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alinawabkhan15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-nawab-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nawab-khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-nawab-khan-265ba9221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nawab-khan-265ba9221" height="30" width="40" /></a>
 <a href="https://fb.com/ali nawab khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali nawab khan" height="30" width="40" /></a>
 <a href="https://instagram.com/alinawabkhan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinawabkhan15" height="30" width="40" /></a>
 <a href="https://medium.com/@alinawabkhan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alinawabkhan15" height="30" width="40" /></a>
